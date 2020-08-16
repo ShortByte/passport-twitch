@@ -13,17 +13,20 @@
     "oauth2",
     "strategy"
   ],
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/" 
+  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Schmoopiie/passport-twitch.git"
+    "url": "git://github.com/ShortByte/passport-twitch.git"
   },
   "bugs": {
-    "url": "http://github.com/Schmoopiie/passport-twitch/issues"
+    "url": "http://github.com/ShortByte/passport-twitch/issues"
   },
   "author": {
-    "name": "Schmoopiie",
-    "email": "Schmoopiie@gmail.com",
-    "url": "http://www.schmoopiie.com/"
+    "name": "Leon Enneken",
+    "email": "contact@enneken-solutions.de",
+    "url": "https://enneken-solutions.de/"
   },
   "licenses": [
     {
@@ -44,10 +47,10 @@
   },
   "maintainers": [
     {
-      "name": "Schmoopiie",
-      "email": "Schmoopiie@gmail.com"
+      "name": "Leon Enneken",
+      "email": "contact@enneken-solutions.de"
     }
   ],
   "directories": {},
-  "homepage": "https://github.com/Schmoopiie/passport-twitch"
+  "homepage": "https://github.com/ShortByte/passport-twitch"
 }
