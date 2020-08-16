@@ -1,6 +1,6 @@
 {
-  "name": "passport-twitch",
-  "version": "1.0.3",
+  "name": "twitch-passport",
+  "version": "1.0.4",
   "description": "Twitch (OAuth) authentication strategies for Passport.",
   "keywords": [
     "passport",
@@ -13,9 +13,6 @@
     "oauth2",
     "strategy"
   ],
-  "publishConfig": { 
-    "registry": "https://npm.pkg.github.com/" 
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/ShortByte/passport-twitch.git"

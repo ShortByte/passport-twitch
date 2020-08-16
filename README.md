@@ -14,7 +14,7 @@ unobtrusively integrated into any application or framework that supports
 
 ## Install
 ```bash
-$ npm install passport-twitch
+$ npm install twitch-passport
 ```
 ## Usage of OAuth 2.0
 
@@ -27,7 +27,7 @@ accepts these credentials and calls `done` providing a user, as well as
 
 ```javascript
 var passport       = require("passport");
-var twitchStrategy = require("passport-twitch").Strategy;
+var twitchStrategy = require("twitch-passport").Strategy;
 
 passport.use(new twitchStrategy({
     clientID: TWITCH_CLIENT_ID,
@@ -74,7 +74,7 @@ var bodyParser     = require("body-parser");
 var cookieParser   = require("cookie-parser");
 var cookieSession  = require("cookie-session");
 var passport       = require("passport");
-var twitchStrategy = require("passport-twitch").Strategy;
+var twitchStrategy = require("twitch-passport").Strategy;
 
 var app = express();
 
