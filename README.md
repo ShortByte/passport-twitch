@@ -1,7 +1,6 @@
-# passport-twitch
-[![Code Climate](https://codeclimate.com/github/Schmoopiie/passport-twitch/badges/gpa.svg)](https://codeclimate.com/github/Schmoopiie/passport-twitch)
+# twitch-passport
 
-Twitch is a trademark or registered trademark of Twitch Interactive, Inc. in the U.S. and/or other countries. "passport-twitch" is not operated by, sponsored by, or affiliated with Twitch Interactive, Inc. in any way.
+Twitch is a trademark or registered trademark of Twitch Interactive, Inc. in the U.S. and/or other countries. "twitch-passport" is not operated by, sponsored by, or affiliated with Twitch Interactive, Inc. in any way.
 
 [Passport](http://passportjs.org/) strategies for authenticating with [Twitch](http://www.twitch.tv/)
 using OAuth 2.0.
